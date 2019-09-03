@@ -7,6 +7,6 @@ My stupid boss still prefers SVN.
 
 Creating a new branch is quick and simple.
 
-Test Data For.
+Git is a free software...
 
 First times test send data to Github.
